@@ -9,6 +9,7 @@ This is a project for a browser based tool for Tabletop Roleplaying Game (TTRPG)
 
 **Medium priority** features:
 1) edit and select tile subtype - city, port, village, ruins, etc manually
+2) submaps, linked maps, map hierarchy
 
 **Low priority** features:
 1) starting on a blank or randomly generated map
