@@ -20,3 +20,5 @@ The plan is to create a tool, where the DM could generate, edit and populate a h
 7) random generation settings
 8) create, edit, delete tile types
 9) change tile type images by importing your own
+
+Inspired by: https://slowe.github.io/stuquery/hexmap.html
