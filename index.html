@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="js/stuquery.js"></script>
+        <script type="text/javascript" src="js/stuquery.hexmap.js"></script>
+        <script type="text/javascript" src="js/dynamic_hexmap.js"></script>
+        <script type="text/javascript" src="js/hexmap.js"></script>
+        <link rel="stylesheet" href="css/stuquery.hexmap.css">
+        <meta charset='utf-8'>
+    </head>
+    <body>
+        <h3>Hex Map Generator</h3>
+        <label for="height">Height:</label><br>
+        <input type="int" id="height" value="3"><br>
+        <label for="width">Width:</label><br>
+        <input type="int" id="width" value="3"><br>
+        <button onclick = "dynamicHexmap()">Generate</button>
+        <div id="hexmap-1">
+        </div>
+    </body>
+</html>
