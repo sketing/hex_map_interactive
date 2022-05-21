@@ -1,6 +1,5 @@
 # Interaractive Hex Map
-This is a project for a browser based tool for Tabletop Roleplaying Game (TTRPG) enthusiasts, DMs and players alike
-The plan is to create a tool, where the DM could generate, edit and populate a hexagonal map and then possibily share it with players and other DMs
+This is a project for a browser based tool for Tabletop Roleplaying Game (TTRPG) enthusiasts, DMs and players alike. The plan is to create a tool, where the DM could generate, edit and populate a hexagonal map and then possibily share it with players and other DMs
 
 ## Planned features:
 **High priority** features:
